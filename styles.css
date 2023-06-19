@@ -1,11 +1,12 @@
 /* Write your CSS here! */
 p {
-    color: red;
-    margin-left: 80px;
-    background-color: yellow;
+    color: rgb(224, 134, 16);
+    margin-left:4rch;
+    ;
   }
   h1 {
-    color:rgb(56, 206, 186);
+    background-color:palevioletred;
+    color:rgba(1, 14, 20, 0.623);
     padding-left: 400px;  
   }
   h2{
