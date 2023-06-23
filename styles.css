@@ -1,15 +1,46 @@
-/* Write your CSS here! */
+/* Write your CSS here! */ 
+
 p {
     color: rgb(224, 134, 16);
     margin-left:4rch;
-    ;
+  }
+  p{
+    font-family: "Lucida Console", "Courier New", monospace;
+
   }
   h1 {
+    
+      border-style: double;
+      border-width: 15px;
+    
     background-color:palevioletred;
     color:rgba(1, 14, 20, 0.623);
     padding-left: 400px;  
   }
   h2{
+    
     color: rgb(111, 0, 255);
   }
+  table {
+    border-style: double;
+    background-color:palevioletred;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #dddddd;
+  }
+
+  
+
+  
+  
+  
 
